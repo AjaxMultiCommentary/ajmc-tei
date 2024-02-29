@@ -21,7 +21,11 @@ $ ant xar-local
 
 You can then copy this `.xar` archive into your eXist-DB instance.
 
-# LICENSE
+# See also
+
+For fuller reference and answers to additional questions, refer to the [TEI Publisher](https://github.com/eeditiones/tei-publisher-app) README.
+
+# License
 
 Copyright © 2024 Ajax Multi-Commentary
 
