@@ -419,3 +419,9 @@ pb-drawer {
 .gitlab img {
     max-height: var(--pb-logo-image-height);
 }
+
+.tei-head7 {
+    color: #708090;
+    float: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
