@@ -1,5 +1,17 @@
+/* Based of the TEI Publisher shakespeare.css */
+
+.footnote {
+    font-size: smaller;
+}
+
 .tei-speaker + * {
     display: inline;
+}
+
+.tei-head7 {
+    color: #708090;
+    float: left;
+    margin-right: 1em;
 }
 
 @media print {
