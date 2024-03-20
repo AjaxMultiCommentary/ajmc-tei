@@ -1,4 +1,4 @@
-<package xmlns="http://expath.org/ns/pkg" spec="1.0" version="0.2" name="https://ajmc.unil.ch/apps/ajmc" abbrev="ajmc">
+<package xmlns="http://expath.org/ns/pkg" spec="1.0" version="0.3" name="https://ajmc.unil.ch/apps/ajmc" abbrev="ajmc">
     <title>Ajax Multi-Commentary</title>
     <dependency processor="http://exist-db.org" semver-min="5.3.0"/>
     <dependency package="http://exist-db.org/html-templating" semver="1"/>
