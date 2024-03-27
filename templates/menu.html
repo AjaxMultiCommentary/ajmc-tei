@@ -1,8 +1,8 @@
 <app-toolbar class="menubar">
     <a href="${app}/index.html" class="logo" data-template="pages:parse-params"/>
-    <a href="${app}/about.md" data-template="pages:parse-params">About</a>
     <pb-media-query query="min-width: 1024px">
-        <a href="${app}/index.html" data-template="pages:parse-params">Start</a>
+        <a href="${app}/index.html" data-template="pages:parse-params">Home</a>
+        <a href="${app}/about.md" data-template="pages:parse-params">About</a>
         <paper-menu-button id="download-button">
             <a slot="dropdown-trigger" data-i18n="[title]menu.download.title" title="i18n(download)">
                 <pb-i18n key="menu.download.title">Download</pb-i18n>
@@ -43,25 +43,6 @@
                 </paper-item>
             </paper-listbox>
         </paper-menu-button>
-        <pb-restricted login="login">
-            <paper-menu-button>
-                <a slot="dropdown-trigger"><pb-i18n key="menu.admin.title">Admin</pb-i18n></a>
-                <paper-listbox slot="dropdown-content">
-                    <paper-item data-template="pages:edit-odd-list"/>
-                    <paper-item>
-                        <pb-download url="api/apps/download">
-                            <pb-i18n key="appgen.xar-download">Download App as .xar</pb-i18n>
-                        </pb-download>
-                    </paper-item>
-                    <paper-item>
-                        <a href="${app}/api.html" data-template="pages:parse-params" target="_blank">API Documentation</a>
-                    </paper-item>
-                    <paper-item>
-                        <a href="https://cdn.tei-publisher.com/" target="_blank">Webcomponents API</a>
-                    </paper-item>
-                </paper-listbox>
-            </paper-menu-button>
-        </pb-restricted>
    </pb-media-query>
 
     <!-- Search input -->
