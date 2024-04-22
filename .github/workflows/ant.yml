@@ -28,7 +28,7 @@ jobs:
       uses: mavrosxristoforos/get-xml-info@2.0
       with:
         xml-file: 'expath-pkg.xml'
-        xpath: '//package/@version'
+        xpath: "//*[local-name()='package']/@version"
     - uses: actions/upload-artifact@v4
       with:
         name: 'AjMC-${{ steps.get-ajmc-version.outputs.info }}'
