@@ -1502,11 +1502,11 @@
 					<div>
 						<pb n="Hermann1851_0016" facs="Hermann1851/Hermann1851_0016"/>
 						<p type="line_region">
-							<w>PRAEFATIΟ.</w>
+							<w>XJI</w>
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>XJI</w>
+							<w>PRAEFATIΟ.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -4580,6 +4580,9 @@
 						</p>
 						<p type="line_region">
 							<w>15</w>
+							<lb/>
+						</p>
+						<p type="line_region">
 							<w>ὡς</w>
 							<w>εὐμαθές</w>
 							<w>σου,</w>
@@ -4587,10 +4590,6 @@
 							<w>ἄποπτος</w>
 							<w>ἦς</w>
 							<w>ὅμως,</w>
-							<lb/>
-						</p>
-						<p type="line_region">
-							<w>15</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -4953,13 +4952,13 @@
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>N</w>
-							<w>NN</w>
-							<w>G</w>
+							<w>ΟΔΥΣΣΕΥΣ.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>ΟΔΥΣΣΕΥΣ.</w>
+							<w>N</w>
+							<w>NN</w>
+							<w>G</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -6082,13 +6081,13 @@
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>&gt;</w>
-							<w>yDY</w>
-							<w>y</w>
+							<w>ΟΔΥΣΣΕΥΣ.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>ΟΔΥΣΣΕΥΣ.</w>
+							<w>&gt;</w>
+							<w>yDY</w>
+							<w>y</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -6345,13 +6344,13 @@
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>y</w>
-							<w>v=v</w>
-							<w>m.</w>
+							<w>ΟΔΥΣΣΕΥΟΣΣΕΟΣ.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>ΟΔΥΣΣΕΥΟΣΣΕΟΣ.</w>
+							<w>y</w>
+							<w>v=v</w>
+							<w>m.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -16724,9 +16723,9 @@
 							<w>φρόνησον</w>
 							<w>εἶ.</w>
 							<lb/>
-							<w>y</w>
-							<lb/>
 							<w>ΑΙΑΣ.</w>
+							<lb/>
+							<w>y</w>
 							<lb/>
 							<w>στσο</w>
 							<w>θη</w>
@@ -20541,6 +20540,7 @@
 							<w>757,</w>
 							<w>34.</w>
 							<w>(659,</w>
+							<w>4.</w>
 							<lb/>
 							<w>respiciens</w>
 							<w>etiam</w>
@@ -24538,13 +24538,13 @@
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>ά.</w>
-							<lb/>
-						</p>
-						<p type="line_region">
 							<w>στω</w>
 							<w>φὀ</w>
 							<w>α.</w>
+							<lb/>
+						</p>
+						<p type="line_region">
+							<w>ά.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -26673,6 +26673,7 @@
 							<lb/>
 							<w>habuerat</w>
 							<w>Lips.</w>
+							<w>b.</w>
 							<w>in</w>
 							<w>quo</w>
 							<w>δεινῶν</w>
@@ -30260,6 +30261,10 @@
 							<lb/>
 						</p>
 						<p type="line_region">
+							<w>ΑΓΓΕΟΣ</w>
+							<lb/>
+						</p>
+						<p type="line_region">
 							<w>ΤΤΤ</w>
 							<w>Α</w>
 							<lb/>
@@ -30267,10 +30272,6 @@
 						<p type="line_region">
 							<w>e</w>
 							<w>m</w>
-							<lb/>
-						</p>
-						<p type="line_region">
-							<w>ΑΓΓΕΟΣ</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -34235,11 +34236,11 @@
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>œ'</w>
+							<w>ΤΕΚΜΣΣΗ.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>ΤΕΚΜΣΣΗ.</w>
+							<w>œ'</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -47538,6 +47539,7 @@
 							<lb/>
 							<w>Patuae;</w>
 							<w>deireen</w>
+							<w>ri</w>
 							<w>,</w>
 							<w>ae</w>
 							<lb/>
@@ -47546,23 +47548,23 @@
 							<w>Athen.</w>
 							<w>Viii]</w>
 							<lb/>
-							<w>Pkanan</w>
-							<lb/>
 							<w>1i.</w>
 							<w>ι.</w>
 							<w>,</w>
 							<w>27.</w>
 							<w>2,</w>
 							<lb/>
+							<w>Pkanan</w>
+							<lb/>
 							<w>2</w>
 							<w>υε.,.2</w>
+							<lb/>
+							<w>ane</w>
 							<lb/>
 							<w>cutus,</w>
 							<w>quas</w>
 							<w>qui</w>
 							<w>uoo</w>
-							<lb/>
-							<w>ane</w>
 							<lb/>
 							<w>waui</w>
 							<w>wen—</w>
@@ -47608,16 +47610,18 @@
 							<w>quo</w>
 							<w>si</w>
 							<lb/>
+							<w>4</w>
+							<lb/>
 							<w>ot</w>
 							<w>,</w>
-							<lb/>
-							<w>4</w>
 							<lb/>
 							<w>oε</w>
 							<w>ροις</w>
 							<w>.</w>
 							<w>..</w>
 							<lb/>
+						</p>
+						<p type="line_region">
 							<w>h3212</w>
 							<lb/>
 						</p>
@@ -54059,8 +54063,6 @@
 							<w>fore</w>
 							<w>arbitror.</w>
 							<lb/>
-							<w>*</w>
-							<lb/>
 							<w>o</w>
 							<w>zoe</w>
 							<w>gi,</w>
@@ -54069,6 +54071,8 @@
 							<w>ostendere</w>
 							<w>vult</w>
 							<w>Teucer,</w>
+							<lb/>
+							<w>*</w>
 							<lb/>
 							<w>Partdus</w>
 							<w>S</w>
@@ -54114,13 +54118,13 @@
 							<lb/>
 							<w>-</w>
 							<lb/>
+							<w>ρεβῦν</w>
+							<w>Erfurd-</w>
+							<lb/>
 							<w>.169</w>
 							<w>-</w>
 							<w>ν</w>
 							<w>-</w>
-							<lb/>
-							<w>ρεβῦν</w>
-							<w>Erfurd-</w>
 							<lb/>
 							<w>υo</w>
 							<w>leleta</w>
@@ -55185,13 +55189,13 @@
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>=</w>
-							<w>yV</w>
-							<w>y</w>
+							<w>ΟΔΥΣΣΣΕΥΟΓ.Ε.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>ΟΔΥΣΣΣΕΥΟΓ.Ε.</w>
+							<w>=</w>
+							<w>yV</w>
+							<w>y</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -56657,12 +56661,12 @@
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>XX=Y</w>
-							<w>X</w>
+							<w>ΟΡΥΣΣΕ</w>
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>ΟΡΥΣΣΕ</w>
+							<w>XX=Y</w>
+							<w>X</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -58884,13 +58888,13 @@
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>οὐ</w>
-							<w>1086.</w>
+							<w>εὐρώεις</w>
+							<w>146.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
-							<w>εὐρώεις</w>
-							<w>146.</w>
+							<w>οὐ</w>
+							<w>1086.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -59015,17 +59019,17 @@
 							<lb/>
 						</p>
 						<p type="line_region">
+							<w>κρυβεὶς,</w>
+							<w>κρυφεὶς</w>
+							<w>1145.</w>
+							<lb/>
+						</p>
+						<p type="line_region">
 							<w>οὐ</w>
 							<w>οὔτε</w>
 							<w>1199.</w>
 							<w>οὐκ</w>
 							<w>ἀνέ</w>
-							<lb/>
-						</p>
-						<p type="line_region">
-							<w>κρυβεὶς,</w>
-							<w>κρυφεὶς</w>
-							<w>1145.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
@@ -59155,16 +59159,16 @@
 							<lb/>
 						</p>
 						<p type="line_region">
+							<w>μελανθής</w>
+							<w>9u9.</w>
+							<lb/>
+						</p>
+						<p type="line_region">
 							<w>σσ</w>
 							<w>uὀλέσσαι</w>
 							<w>et</w>
 							<w>sim.</w>
 							<w>375.</w>
-							<lb/>
-						</p>
-						<p type="line_region">
-							<w>μελανθής</w>
-							<w>9u9.</w>
 							<lb/>
 						</p>
 						<p type="line_region">
